@@ -96,26 +96,6 @@ It can produce relevant Bhagavad Gita-related explanations, but it can also:
 
 The model should therefore not be treated as an authoritative source for scripture, religious instruction, or scholarly interpretation.
 
-For serious study, consult the original Sanskrit text and reliable translations or commentaries.
 
-## Repository Structure
 
-```text
-gita-qwen-0.5b-v2/
-│
-├── README.md
-├── LICENSE
-│
-├── training/
-│   └── gita-qwen-0.5b-v2-finetuning.ipynb
-│
-├── evaluation/
-│   ├── gita_v2_benchmark_50.json
-│   ├── gita_v2_benchmark_base.json
-│   ├── gita_v2_benchmark_v2.json
-│   └── gita_v2_benchmark_results.json
-│
-├── inference/
-│   └── inference.py
-│
-└── requirements.txt
+
